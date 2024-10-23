@@ -762,8 +762,8 @@ li.location__list-item::before {
 
 .features__slider-slide {
   box-sizing: border-box;
-  width: 536px; /* ширина каждого слайда */
-  height: 194px; /* высота слайда */
+  width: 536px;
+  height: 194px;
   border-radius: 8px;
   padding: 32px;
   font-size: 24px;
