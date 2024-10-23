@@ -45,6 +45,19 @@ body {
   font-family: "Plus Jakarta Sans";
 }
 
+.header__menu-item-link-up {
+  position: relative;
+}
+
+.header__menu-item-link-up::after {
+  top: 3px;
+  right: -22.66px;
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background-image: url(/image/up.svg);
+}
 .header {
   background: #ebeaf8;
 }
