@@ -50,7 +50,7 @@ body {
 }
 
 .header__menu-item-link-up::after {
-  top: 3px;
+  top: 4px;
   right: -22.66px;
   content: "";
   position: absolute;
